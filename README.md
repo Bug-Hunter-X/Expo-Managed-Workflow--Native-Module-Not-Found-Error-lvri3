@@ -1,0 +1,3 @@
+# Expo Managed Workflow: Native Module Not Found
+
+This repository demonstrates a common error encountered in Expo's managed workflow when using libraries or features that rely on native modules not included by default in the Expo Go client app. The `bug.js` file showcases code that triggers the error, while `bugSolution.js` provides solutions for resolving the issue.  Solutions include using Expo modules, ejecting, or selecting a different library.  This example uses react-native-camera, but the concept applies to various libraries.
