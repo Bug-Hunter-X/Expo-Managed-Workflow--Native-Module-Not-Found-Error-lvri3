@@ -1,0 +1,1 @@
+This error typically arises when you're working with Expo's managed workflow and attempt to use a library or feature that's not fully compatible with the Expo Go app or requires native modules that aren't bundled by default.  The exact error message might vary, but often includes phrases like "Native module not found" or a reference to a specific module that Expo can't find.
